@@ -229,3 +229,12 @@ The final decision always belongs to the user.
 F-Map informs.
 
 The user decides.
+
+* Principle 1 — Map Before Questions
+* Principle 2 — Free Before Paid
+* Principle 3 — Cost Before Execution
+* Principle 4 — Sandbox Before Builder
+* Principle 5 — Confidence Before Commitment
+* Principle 6 — Sandbox Completion Score
+* Principle 7 — Generate Everything First
+* Principle 8 — User Ownership
