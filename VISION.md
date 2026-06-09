@@ -4,24 +4,40 @@ Most AI builders charge users while they are still figuring out what to build.
 
 F-Map changes that.
 
+F-Map is a universal planning engine.
+
 Users enter an idea.
 
-F-Map creates:
+Before money, resources, or AI tokens are spent, F-Map creates:
 
 - Project map
+- System map
+- Dependency map
 - Cost estimate
-- Prototype
 - Risk analysis
+- Execution plan
 - Builder prompt
 
-Before a single live API call is made.
+For any project:
 
-The goal is to eliminate wasted development spending.
+- Software
+- Businesses
+- Construction
+- Research
+- Operations
+- Personal projects
 
-Sandbox Mode:
-Users can test and modify ideas for free.
+Mission:
 
-Live Mode:
-Users deploy the validated version into production.
+Map first.  
+Build second.
 
-The Sandbox becomes a digital twin of the live application.
+The goal is to eliminate wasted development spending and reduce failed projects before execution begins.
+
+Sandbox Mode:  
+Users test and modify ideas before spending money.
+
+Live Mode:  
+Users deploy validated plans into production.
+
+The Sandbox becomes a digital twin of the live project.
