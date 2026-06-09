@@ -250,3 +250,23 @@ Users interact with the map first.
 Documents are generated from the map, not the other way around.
 
 The map is the source of truth.
+
+# F-Map Structure
+
+An F-Map consists of:
+
+## Nodes
+
+Represent systems, resources, people, processes, risks or goals.
+
+## Connections
+
+Represent dependencies and relationships.
+
+## Metadata
+
+Stores costs, risks, confidence scores and additional information.
+
+## Actions
+
+Allow users and AI agents to modify the map.
