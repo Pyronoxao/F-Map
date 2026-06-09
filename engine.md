@@ -74,3 +74,45 @@ Project Map
 Dependency Map
 Risk Map
 Execution Plan
+
+Cost Analysis Layer
+
+After generating systems and dependencies, F-Map estimates:
+
+* Development Cost
+* Operating Cost
+* Maintenance Cost
+* AI Cost
+* Human Resource Cost
+
+The estimate does not need to be exact.
+
+Its purpose is to identify major spending areas before execution begins.
+
+⸻
+
+Validation Layer
+
+Before execution:
+
+* Check missing systems
+* Check missing dependencies
+* Check major risks
+* Check resource requirements
+
+If issues are found:
+
+Return recommendations before execution.
+
+⸻
+
+Final Output
+
+F-Map returns:
+
+* System Map
+* Dependency Map
+* Risk Map
+* Cost Estimate
+* Execution Plan
+* Validation Report
