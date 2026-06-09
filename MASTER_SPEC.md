@@ -147,3 +147,67 @@ Agency Marketplace
 Community Funding
 
 Human Review Board
+
+markdown
+# Core Principles
+
+Core Principles
+
+Principle 1 - Map Before Questions
+
+F-Map generates a first draft before asking questions.
+
+Questions are only asked when they improve confidence or reduce risk.
+
+⸻
+
+Principle 2 - Free Before Paid
+
+F-Map should push planning, simulation, mapping and validation as far as possible before any paid execution is required.
+
+⸻
+
+Principle 3 - Cost Before Execution
+
+Every paid action should display:
+
+* Estimated Cost
+* Estimated Time
+* Expected Outcome
+
+before execution.
+
+⸻
+
+Principle 4 - Sandbox Before Builder
+
+Users should be able to explore, modify and validate ideas before committing to a build.
+
+⸻
+
+Principle 5 - Confidence Before Commitment
+
+F-Map assigns a confidence score to every project.
+
+Higher confidence means fewer unknowns and fewer risks.
+
+⸻
+
+Principle 6 - Sandbox Completion Score
+
+Every project receives a Sandbox Completion Score.
+
+Examples:
+
+0-25% = Idea Stage
+
+26-50% = Planning Stage
+
+51-75% = Prototype Stage
+
+76-90% = Build Ready
+
+91-100% = Deployment Ready
+
+The goal is to maximise Sandbox Completion before spending money.
+
