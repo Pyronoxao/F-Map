@@ -238,3 +238,15 @@ The user decides.
 * Principle 6 — Sandbox Completion Score
 * Principle 7 — Generate Everything First
 * Principle 8 — User Ownership
+
+Source of Truth Principle
+
+The F-Map is the primary representation of a project.
+
+All reports, plans, costs, timelines, prompts and build instructions are generated from the map.
+
+Users interact with the map first.
+
+Documents are generated from the map, not the other way around.
+
+The map is the source of truth.
