@@ -211,3 +211,21 @@ Examples:
 
 The goal is to maximise Sandbox Completion before spending money.
 
+Principle 8 - User Ownership
+
+F-Map does not decide what users should build.
+
+F-Map’s responsibility is to:
+
+* Map the project
+* Identify systems
+* Identify dependencies
+* Highlight risks
+* Estimate costs
+* Measure readiness
+
+The final decision always belongs to the user.
+
+F-Map informs.
+
+The user decides.
